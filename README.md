@@ -1,2 +1,3 @@
 # moby-dick
-Dave
+Dave's White Whale
+
